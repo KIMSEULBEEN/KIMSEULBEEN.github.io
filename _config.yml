@@ -1,6 +1,6 @@
 title: A free person living in Seognam
 name: Your Name
-email: your-email@example.com
+email: tmfgksdk@gmail.com
 description: She can do, he can do, why not you?
 
 baseurl: "/blog"
@@ -32,6 +32,12 @@ project_four: Fourth Project
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
+
+
+project_four: Fifth Project
+project_four_description: Describe your project!
+project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_icon: photo_camera
 
 portfolio_heading: Portfolio
 portfolio_type: cards
