@@ -8,7 +8,9 @@ Python implementation of **object tracker with Kalman filter and ORB**.
 
 ### Prerequisites
 - python 3.6
-- numpy, opencv-python, matplotlib modules   (can install these modules by typing pip install *)  ex) pip install numpy
+- numpy, opencv-python, matplotlib modules  
+(can install these modules by typing pip install *)   
+ex) pip install numpy  
 
 ### Usage
 ```**
