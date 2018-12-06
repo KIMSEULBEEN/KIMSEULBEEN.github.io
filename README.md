@@ -1,6 +1,6 @@
 ## Object Tracker with Kalman filter and ORB
 
-Student name: 김슬빈
+Student name: 김슬빈  
 Student ID: 201872581
 
 ### Introduction
