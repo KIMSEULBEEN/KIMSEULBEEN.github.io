@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hi everyone"
+title:  "Welcome to my blog"
 ---
 
 # Welcome to my blog
